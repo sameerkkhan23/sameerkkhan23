@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sameer Khan 👋
 
-<!--
-**sameerkkhan23/sameerkkhan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Software Developer with interest in **Python, Django, and Machine Learning**
+- Experience building **Spam Detection**, **Resume Screening**, and **Web Apps**
+- Passionate about solving real-world problems with code
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, Dart
+- **Frameworks:** Django, React, Streamlit
+- **ML:** Scikit-learn, Pandas, NumPy
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 📩 **Spam Message Detection** – ML-based text classification app
+- 📄 **AI Resume Screening System** – Automated resume filtering
+- 🎮 **Rock Paper Scissors** – JavaScript game
+- 📚 **Library Management System** – ASP.NET project
+
+## 📫 Connect With Me
+- GitHub: [@sameerkkhan23](https://github.com/sameerkkhan23)
+
+⭐ Always learning and improving
